@@ -1,0 +1,184 @@
+body {
+
+    background-color:aliceblue;
+    
+    }
+
+img {
+    width: 300px;
+    height: auto;
+    float: right;
+    position: relative;
+}
+
+nav{
+    position: fixed;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+
+
+body{
+    font-family: 'Raleway', sans-serif;
+    color: #dedede;
+    background-color: #2e2e2e;
+    display: block;
+    margin: 20mm;
+    margin-left: 60mm;
+    margin-top: 12mm;
+    
+    
+    
+}
+
+ul{
+    display: inline-flex;
+    line-height: 8mm;
+    list-style-type: none;
+    justify-items: left;
+    margin-left: -12mm;
+    color: #2e2e2e;
+}
+a
+{color: #2e2e2e;}
+    a:link {
+        background-color: #dedede;
+        text-decoration-color: none;
+        padding: 14px 40px;
+        text-align: left;
+        text-decoration: none;
+        display: inline-block;
+      }
+      a:hover, a:active {
+        background-color: #b1b1b1;
+      }
+
+section#about{
+    display: inline-block;
+    word-wrap: normal;
+    padding: 100px;
+ 
+    
+}
+
+
+Selectors
+/* Element */
+HTML tag {
+property: property value;
+}
+
+/* ID */
+#idname {
+property: property value;
+property: property value;
+}
+
+
+/* Class */
+.class {
+property: property value;
+property: property value;
+}
+
+
+/* Responsiveness */
+
+/* Flexbox */
+.flexbox-element {
+property: property value;
+property: property value;
+}
+
+
+/* Images
+min-width
+
+or max-width
+
+min-device-width
+
+Properties
+
+Note: You don’t have to insert every CSS in your file. They are examples of what you can do in each of the required properties.
+
+Margins
+margin
+
+margin-top
+
+margin-left
+
+margin-right
+
+margin-bottom
+
+max-width
+
+max-height
+
+Padding
+padding
+
+padding-top
+
+padding-left
+
+padding-right
+
+padding-bottom
+
+Float, Clear, Overflow, Display
+float
+
+clear
+
+overflow
+
+display
+
+Typography
+font-family
+
+font-size
+
+font-weight
+
+text-align
+
+text-decoration
+
+text-transform
+
+letter-spacing
+
+line-height
+
+white-space
+
+Colour
+Color
+
+background-color
+
+Border
+border-style
+
+border-width
+
+border-color
+
+border-radius
+
+Position
+position
+
+Navigation Bar
+
+Include navigation bar.
+
+Comments
+
+Add comments describing the CSS sections throughout the file.
+*/
